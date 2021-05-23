@@ -197,9 +197,7 @@ You will get the exam ouput message and a PDF file contains three plot.
 
 Illustration for PDF file
 
-|image1| |image2| |image3|
+|image1|
 
-.. |image0| image:: https://github.com/cbcrg/hicmaptools/blob/master/doc/queryExample.png
-.. |image1| image:: https://github.com/cbcrg/hicmaptools/blob/master/doc/example_1.png
-.. |image2| image:: https://github.com/cbcrg/hicmaptools/blob/master/doc/example_2.png
-.. |image3| image:: https://github.com/cbcrg/hicmaptools/blob/master/doc/example_3.png
+.. |image0| image:: https://github.com/cbcrg/hicmaptools/blob/master/docs/figs/queryOption.pdf
+.. |image1| image:: https://github.com/cbcrg/hicmaptools/blob/master/docs/figs/randomExample.pdf
