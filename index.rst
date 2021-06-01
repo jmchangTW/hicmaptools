@@ -1,8 +1,7 @@
 hicmaptools
 ===========
 
-hicmaptools is a collection of tools for downstream HiC contmap
-analysis.
+It is a commend line tool for query contact information from HiC map.
 
 Prerequisites
 -------------
